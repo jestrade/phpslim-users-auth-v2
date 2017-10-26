@@ -1,0 +1,15 @@
+{
+    "name": "vendor/csbw",
+    "require": {
+        "firebase/token-generator": "^3.0",
+        "slim/slim": "^3.8"
+    },
+    "require-dev": {
+        
+    },
+    "authors": [
+        {
+            "name": "jestrade"
+        }
+    ]
+}
